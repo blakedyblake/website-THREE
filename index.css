@@ -1,0 +1,50 @@
+#head{
+    box-sizing: border-box;
+    margin:0px;
+    width: 750px;
+    height: 120px;
+    background-color: lightgray;
+}
+#square{
+    box-sizing: border-box;
+    margin: 0px;
+    width:90px;
+    height:90px;
+    background-color: blue;
+    position:absolute;
+    top:20px;
+    left:20px;
+}
+#main{
+    box-sizing: border-box;
+    width:750px;
+    height:200px;
+    background-color: white;
+
+    padding:40px
+
+}
+#blue{
+    box-sizing: border-box;
+    width: 750px;
+    height:120px;
+    background-color: blue;
+}
+#cyan{
+    box-sizing: border-box;
+    width: 750px;
+    height:120px;
+    background-color: cyan;
+}
+#terra{
+    box-sizing: border-box;
+    width: 750px;
+    height:120px;
+    background-color: greenyellow;
+}
+#yellow{
+    box-sizing: border-box;
+    width: 750px;
+    height:120px;
+    background-color: yellow;
+}
